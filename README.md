@@ -29,8 +29,8 @@ I'd say it very well may be the biggest one I've done so far with many things to
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/social-proof-section-grid-flexbox-y9nNzhhUFB)
+- Live Site URL: (https://social-proof-section-saif.netlify.app/)
 
 ## My process
 
